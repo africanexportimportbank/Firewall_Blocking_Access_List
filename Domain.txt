@@ -1,2 +1,3 @@
 abc.com
+sample.local
 xyz.com
