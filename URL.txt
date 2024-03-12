@@ -15,6 +15,7 @@ https://c3.eu-3-id5-sync.com
 https://c3.eu-4-id5-sync.com
 https://c4.eu-3-id5-sync.com
 https://c4.eu-4-id5-sync.com
+https://c5.eu-3-id5-sync.com
 https://c5.eu-4-id5-sync.com
 https://c6.eu-3-id5-sync.com
 https://c7.eu-3-id5-sync.com
