@@ -1,4 +1,3 @@
-*.paloaltonetworks.com
 servicesdirectory.withyoutube.com/
 cash-word.3utilities.com/
 word-lis.myftp.org/
