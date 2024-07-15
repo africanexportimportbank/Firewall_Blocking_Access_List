@@ -1843,8 +1843,8 @@ u.io/
 u.mp/
 u.next/
 z.ee/
-www.gstatic.com/
-www.recaptcha.net/
+gstatic.com/
+recaptcha.net/
 scumware.org/
 a.next/
 e.call/
@@ -1855,7 +1855,7 @@ r.next/
 t.call/
 t.next/
 o.rs/
-www.w3.org/
+w3.org/
 fonts.gstatic.com/
 a.ba/
 a.gl/
@@ -2192,7 +2192,7 @@ api.promosapp.es/
 admin.promosapp.es/
 admin-uat.promosapp.es/
 admin-dev.promosapp.es/
-www.mail.prtgroup.eu/
+mail.prtgroup.eu/
 services.hce.prtgroup.eu/
 irendc.prtgroup.eu/
 digita.prtgroup.eu/
@@ -2211,7 +2211,7 @@ content.dermloop.io/
 authentication.dermloop.io/
 auth-admin.dermloop.io/
 analytics.dermloop.io/
-www.hsblog.biltd.com/
+hsblog.biltd.com/
 wvds.biltd.com/
 wvd.biltd.com/
 wpprod.biltd.com/
@@ -2627,7 +2627,7 @@ addirondackdodge.com/
 g.livitrentals.com/
 m.livitrentals.com/
 q.livitrentals.com/
-www.hyundaiphulam.vn/
+hyundaiphulam.vn/
 g.yourgoldenthimble.com/
 m.yourgoldenthimble.com/
 q.yourgoldenthimble.com/
