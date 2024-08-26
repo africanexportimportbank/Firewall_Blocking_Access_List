@@ -2785,4 +2785,8 @@ chromeweb-authenticators.com/
 vaniloin.fun/
 zoneinsurancegroup.com/
 link.mail.beehiiv.com/
+filefactory.com/
+api.my-rise.cc/
+neo-files.com/
+gamefilescript.com/
 
